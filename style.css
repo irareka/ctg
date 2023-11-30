@@ -1,0 +1,12 @@
+.wrapper {
+     width: 1280px;
+     height: 2000px;
+     border: 1px solid;
+     margin: 0 auto; 
+}
+.header {
+     display: flex;
+     height: 91px;
+     background-color: #D6C9A9;
+     justify-content: space-around;
+}
